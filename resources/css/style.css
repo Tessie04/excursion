@@ -20,8 +20,16 @@ body {
 
  .header-sub {
      font-size: 21px;
-     color: grey;
+     color: gray;
  }
+
+
+  /* FOOTER */
+  .copyright {
+    text-align:right;
+    color: gray;
+    font-size: 21px;
+}
 
  /* LINKS */
 
